@@ -1,6 +1,6 @@
-# yu_releaseNote
-Microjet Dr. Yu P760 FW Release Note
+file : release_note.txt
 
 ===============================================================
+
 2025/08/29  : init version
 
